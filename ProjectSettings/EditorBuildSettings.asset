@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GUI.unity
+    guid: f4b877a6ad8a97c499dd29a714045ab8
+  - enabled: 1
+    path: Assets/Scenes/Solar System.unity
+    guid: c98a868755e4e4e9db97528bcf6d9248
+  - enabled: 1
+    path: Assets/Planetsmenu.unity
+    guid: d90d150f5c69c134c94c5062ca70cbed
+  - enabled: 1
+    path: Assets/Venussurface.unity
+    guid: 7195446c0c1dd6a4d99d547d40213055
+  - enabled: 1
+    path: Assets/Marssurface/Marssurface.unity
+    guid: d4eadb47e86df354db865766b84d6844
+  - enabled: 1
+    path: Assets/Mercurysurface.unity
+    guid: b71555b929295fa4cad13c5fb01aa523
+  - enabled: 1
+    path: Assets/earth/mars3/mars3.unity
+    guid: 73b07b4b6f7d2b14a81856deb229e2b3
+  - enabled: 1
+    path: Assets/mars4/mars4.unity
+    guid: fd04640809c20304e9f212a432630da5
+  - enabled: 1
+    path: Assets/mars5/mars5.unity
+    guid: ce80a1ba270ee2a428f51f27a94b184a
+  - enabled: 1
+    path: Assets/mars1/mars1.unity
+    guid: 1a304af40559a1d429630e0ab88d1262
+  - enabled: 1
+    path: Assets/mars2/mars2.unity
+    guid: ba2a65020a424df47879f34510b7f5e6
+  - enabled: 1
+    path: Assets/Ebooks.unity
+    guid: a7ea98f62ac151442b8245710fddced3
+  - enabled: 1
+    path: Assets/Scenes/AboutScene.unity
+    guid: 0502794350a562848928d9634def2b7e
+  - enabled: 0
+    path: Assets/Scenes/arAboutScene.unity
+    guid: ba339e64ad0daaf4eb4125df3261ed5c
+  - enabled: 1
+    path: Assets/Scenes/audAboutScene.unity
+    guid: dd6390f704edb3a44a837dcea6303eb7
+  - enabled: 1
+    path: Assets/Scenes/authAboutScene.unity
+    guid: 35507dd8816becb43b4aaa9a7634ecb3
+  - enabled: 1
+    path: Assets/Scenes/ecAboutScene.unity
+    guid: 8022f491c39e99e4b9334f7bb7e615a7
+  - enabled: 1
+    path: Assets/Scenes/vrAboutScene.unity
+    guid: 339b5eb33b8421a44ade38cb7213624b
+  - enabled: 1
+    path: Assets/Earthsurface.unity
+    guid: 57c5535dc567f3f448f372677352a358
+  - enabled: 1
+    path: Assets/earth/earth - Copy.unity
+    guid: c9d3e2d234a198447afd698525a6c285
+  - enabled: 1
+    path: Assets/earth2/earth2.unity
+    guid: 1e295dcf5d1cff64f93b3bfef3889007
+  - enabled: 1
+    path: Assets/earth3/earth3.unity
+    guid: aad7187821a56f94d8543051f6b244c3
+  - enabled: 1
+    path: Assets/mercury1/mercury1.unity
+    guid: 996d38972b21502499bc382eb8a480ed
+  - enabled: 1
+    path: Assets/earth/mercury2/mercury2.unity
+    guid: e4a795d834704934694297feefbeb1cc
+  - enabled: 1
+    path: Assets/mercury3/mercury3.unity
+    guid: d5fb516660bfbc3448341bffbd5d2570
+  - enabled: 1
+    path: Assets/venus1/venus1.unity
+    guid: 2b6253a8de9bd0e4abe3d8920d3e5d24
+  - enabled: 1
+    path: Assets/venus2/venus2.unity
+    guid: e192f4896e0701341ac0db9c49f1c608
+  - enabled: 1
+    path: Assets/venus3/venus3.unity
+    guid: facdbc8c80c159c459b1897ef4c95d16
+  - enabled: 0
+    path: Assets/ARscene.unity
+    guid: 5e91a67308e90894ab66a68f0d628a2b
+  - enabled: 0
+    path: Assets/Qrscene.unity
+    guid: 9928d3c23309fcc4ab491134335f50c5
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3581b1931cfbbeb4fbdbda264ea33922,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: dafa71762b59e0b46a425362c9157139,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a411d6d6352bef1418f51a19d8897e9c,
+      type: 2}
